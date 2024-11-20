@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+*.env
+
+# Build output
+dist/
+build/
+
+# Coverage directory
+coverage/
+
+# Python specific
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db

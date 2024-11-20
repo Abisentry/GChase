@@ -1,0 +1,77 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "type": "individual",
+      "crimes": ["Theft", "Fraud"],
+      "underInvestigation": true,
+      "date": "june-26-2024",
+      "lastUpdated": "2024-11-20T10:00:00Z",
+      "details": "jidrgoxivhiodh ofvjx gseifh lxmvklcjsio kljdfiougierhi"
+    },
+    {
+      "id": "2",
+      "name": "ACME Corp",
+      "type": "company",
+      "crimes": [],
+      "underInvestigation": false,
+      "date": "june-27-2024",
+      "lastUpdated": "2024-11-20T10:00:00Z",
+      "details": "acme corp jdfiougierhi ofvjx gseifh lxmvklcjsio kljdfiougierhi"
+      
+    },
+    {
+      "id": "3",
+      "name": "Alhaji Usman Abubakar",
+      "type": "individual",
+      "crimes": ["Theft", "Fraud"],
+      "underInvestigation": true,
+      "governmentInvolvement": false,
+      "date": "",
+      "lastUpdated": "",
+      "details": "Abubakar and the Young Alhaji Foundation conspired to obtain N950,000,000 from Ano Farms Limited under the false pretence that they had the dollar equivalent of the said sum. They also attempted to dishonestly convert the sum of N180,000,000.00 (One Hundred and Eighty Million Naira) property of Ano Farms Limited to the use of Abdullahi Mohammed. "
+    },
+    {
+      "id": "4",
+      "name": "Rauf Rokeeb Abayomi",
+      "type": "individual",
+      "crimes": ["Theft", "Fraud"],
+      "underInvestigation": true,
+      "governmentInvolvement": true,
+      "lastUpdated": "2024-06-28T00:00:00Z",
+      "details": "The Lagos Zonal Command of the Economic and Financial Crimes Commission (EFCC) has convicted and sentenced two internet fraudsters, Rauf Rokeeb Abayomi and Odeh Godspower, under Section 22(3) of the Cybercrimes (Prohibition, Prevention etc.) Act, 2015. The suspects pleaded guilty and were sentenced to six months imprisonment and two weeks imprisonment respectively."
+    },
+    {
+      "id": "5",
+      "name": "Odeh Godspower",
+      "type": "individual",
+      "crimes": ["Theft", "Fraud"],
+      "underInvestigation": true,
+      "governmentInvolvement": true,
+      "lastUpdated": "2024-06-28T00:00:00Z",
+      "details": "The Lagos Zonal Command of the Economic and Financial Crimes Commission (EFCC) has convicted and sentenced two internet fraudsters, Rauf Rokeeb Abayomi and Odeh Godspower, under Section 22(3) of the Cybercrimes (Prohibition, Prevention etc.) Act, 2015. The suspects pleaded guilty and were sentenced to six months imprisonment and two weeks imprisonment respectively."
+    },
+
+{
+  "id": "6",
+  "name": "Ano Farms Limited",
+  "type": "company",
+  "crimes": ["Theft", "Fraud"],
+  "underInvestigation": true,
+  "governmentInvolvement": false,
+  "lastUpdated": "2024-06-28T00:00:00Z",
+  "details": "Ano Farms Limited was involved in the theft of N950,000,000 from the company, which was obtained by the Young Alhaji Foundation under the false pretense that they had the dollar equivalent of the said sum. The theft occurred in 2019."
+},
+{
+  "id": "7",
+  "name": "The Young Alhaji Foundation",
+  "type": "organization",
+  "crimes": ["Theft", "Fraud"],
+  "underInvestigation": true,
+  "governmentInvolvement": true,
+  "lastUpdated": "2024-06-28T00:00:00Z",
+  "details": "The Young Alhaji Foundation was involved in the theft of N180,000,000.00 from the company, which was obtained by the Young Alhaji Foundation under the false pretense that they had the dollar equivalent of the said sum. The theft occurred in 2019."
+}
+]
+
+ 
