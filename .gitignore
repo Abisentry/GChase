@@ -2,14 +2,15 @@
 node_modules/
 
 # Log files
-*.log
+*api/logs/
+api/config/
 
 # Environment variables
 *.env
-
+*.idea/
 # Build output
-dist/
-build/
+client-side/dist/
+client-side/build/
 
 # Coverage directory
 coverage/
